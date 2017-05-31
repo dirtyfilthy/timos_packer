@@ -156,6 +156,8 @@ def main():
 	global DATA_BASE
 
 	print("SR/OS TiMOS Firmware Packer v0.01 - Caleb Anderson 2017")
+	print("https://github.com/dirtyfilthy/timos_packer")
+	print()
 	parser = argparse.ArgumentParser(description="pack SR/OS (TiMOS) firmware files")
 	parser.add_argument("outfile",  help="file to write packed firmware to")
 	parser.add_argument("textfile", help="file that contains text section")

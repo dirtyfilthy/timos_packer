@@ -2,6 +2,8 @@
 
 Firmware packer for the Alcatel-Lucent SR/OS (TiMOS) 7750 / 7210 SAS-K etc.
 
+https://github.com/dirtyfilthy/timos_packer
+
 ## Usage:
 
     python3 timos_packer.py -h
