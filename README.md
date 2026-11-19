@@ -1,5 +1,7 @@
 # SR/OS (TiMOS) Firmware Packer 2017
 
+**Status:** not actively developed. I'm not fixing bugs or adding features, but I'll look at pull requests when I can. Forks welcome.
+
 Firmware packer for the Alcatel-Lucent SR/OS (TiMOS) 7750 / 7210 SAS-K etc.
 
 https://github.com/dirtyfilthy/timos_packer
